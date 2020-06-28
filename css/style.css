@@ -1,0 +1,11 @@
+body {
+	margin:2em;
+}
+
+li{
+	list-style: none;
+}
+
+button {
+	margin-right: 4px;
+}
